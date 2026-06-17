@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-que-invitan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ojos que invitan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-que-invitan/) |
+| **Get License** | [Get License For Ojos que invitan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-que-invitan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ojos que invitan, mami, tú eres la dueña de la noche entera
+> Bailando suave, rompiendo la disco como una fiera
+> Tienes el flow que me atrapa, un veneno que me quema
+> Acércate un poco, baby, que hoy rompemos el sistema
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
