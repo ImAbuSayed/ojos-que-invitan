@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos que invitan
+
+This log tracks the cryptographic history and versioning for the song **Ojos que invitan** (ojos-que-invitan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:45:18.082286 | `v1` | `1d98df9ebae7a7a1d20375118e6fe818ed8122a51304c65edd24f9543d29401d` | `b3179e47474b6586d2d642ba82f8edb9a5de16dbeb1a676e89ae89e1c70de089` | `2026-06-17_ojos-que-invitan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

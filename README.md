@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-que-invitan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ojos que invitan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-que-invitan/) |
+| **Get License** | [Obtain a Music License for Ojos que invitan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-que-invitan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1d98df9ebae7a7a1d20375118e6fe818ed8122a51304c65edd24f9543d29401d` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
